@@ -1,4 +1,4 @@
-# **Healthcare Analytics: Patient Readmission Prediction**
+# **Hospital Readmission Risk Prediction Using Machine Learning**
  Project Overview
 
 Hospital readmissions are a significant challenge for healthcare providers, impacting patient outcomes and increasing healthcare costs.
