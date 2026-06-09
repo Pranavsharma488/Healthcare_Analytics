@@ -126,7 +126,7 @@ Special attention was given to Recall and ROC-AUC since identifying high-risk pa
 
 
 
-#V isualizations & Reporting
+# Visualizations & Reporting
 
 The project contains:
 
