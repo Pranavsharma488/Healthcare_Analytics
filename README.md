@@ -8,7 +8,7 @@ Using a real-world healthcare dataset containing over 100,000 patient records, t
 exploratory data analysis (EDA), predictive modeling, and business-oriented recommendations to support data-driven healthcare decisions.
 
 
-Business Problem
+#Business Problem
 
 Unplanned hospital readmissions can indicate gaps in patient care and contribute to increased operational costs.
 
@@ -21,7 +21,7 @@ The objective of this project is to:
 
 
 
-Dataset Information
+#Dataset Information
 
 | Metric                  | Value              |
 | ----------------------- | ------------------ |
@@ -41,7 +41,7 @@ Dataset Characteristics
 * Suitable for classification modeling
 
 
- Data Processing Pipeline
+ # Data Processing Pipeline
 
 Data Cleaning
 
@@ -66,15 +66,15 @@ Exploratory Data Analysis
 
 The project includes comprehensive EDA to understand:
 
-# Univariate Analysis
-
+**Univariate Analysis
+**
 * Patient demographics
 * Admission characteristics
 * Medication distributions
 * Hospital stay patterns
 
-# Bivariate Analysis
-
+**Bivariate Analysis
+**
 * Relationship between features and readmission
 * Readmission patterns across patient groups
 * Risk factor identification
@@ -87,7 +87,7 @@ The project includes comprehensive EDA to understand:
 
 
 
-#Machine Learning Models
+# Machine Learning Models
 
 Two classification models were trained and evaluated.
 
@@ -99,7 +99,7 @@ A baseline interpretable model used to understand feature influence and establis
 
 An ensemble-based model capable of capturing complex relationships within healthcare data.
 
-### Best Performing Model
+# Best Performing Model
 
 *Random Forest Classifier*
 
@@ -112,7 +112,7 @@ An ensemble-based model capable of capturing complex relationships within health
 
 
 
-#Model Evaluation Strategy
+# Model Evaluation Strategy
 
 The following metrics were used due to class imbalance:
 
@@ -126,7 +126,7 @@ Special attention was given to Recall and ROC-AUC since identifying high-risk pa
 
 
 
-Visualizations & Reporting
+#V isualizations & Reporting
 
 The project contains:
 
@@ -157,17 +157,17 @@ Key Findings
 
 The predictive system can help healthcare organizations:
 
-# Risk Stratification
-Identify high-risk patients before discharge.
+**Risk Stratification
+**Identify high-risk patients before discharge.
 
-# Resource Optimization
-Allocate care management resources efficiently.
+**Resource Optimization
+**Allocate care management resources efficiently.
 
-# Preventive Intervention
-Enable targeted follow-up programs for vulnerable patients.
+**Preventive Intervention
+**Enable targeted follow-up programs for vulnerable patients.
 
-# Cost Reduction
-Reduce avoidable readmissions and associated healthcare expenses.
+**Cost Reduction
+**Reduce avoidable readmissions and associated healthcare expenses.
 
 
 
