@@ -1,5 +1,4 @@
-🏥 Healthcare Analytics: Patient Readmission Prediction
-
+**Healthcare Analytics: Patient Readmission Prediction**
  Project Overview
 
 Hospital readmissions are a significant challenge for healthcare providers, impacting patient outcomes and increasing healthcare costs.
@@ -9,7 +8,7 @@ Using a real-world healthcare dataset containing over 100,000 patient records, t
 exploratory data analysis (EDA), predictive modeling, and business-oriented recommendations to support data-driven healthcare decisions.
 
 
-🎯 Business Problem
+Business Problem
 
 Unplanned hospital readmissions can indicate gaps in patient care and contribute to increased operational costs.
 
@@ -22,7 +21,7 @@ The objective of this project is to:
 
 
 
-📊 Dataset Information
+Dataset Information
 
 | Metric                  | Value              |
 | ----------------------- | ------------------ |
@@ -42,7 +41,7 @@ Dataset Characteristics
 * Suitable for classification modeling
 
 
- 🔄 Data Processing Pipeline
+ Data Processing Pipeline
 
 Data Cleaning
 
@@ -63,7 +62,7 @@ A total of *9 categorical features* were encoded to make the data suitable for m
 
 ---
 
-📈 Exploratory Data Analysis
+Exploratory Data Analysis
 
 The project includes comprehensive EDA to understand:
 
@@ -88,7 +87,7 @@ The project includes comprehensive EDA to understand:
 
 
 
-# 🤖 Machine Learning Models
+#Machine Learning Models
 
 Two classification models were trained and evaluated.
 
@@ -113,7 +112,7 @@ An ensemble-based model capable of capturing complex relationships within health
 
 
 
-# 📊 Model Evaluation Strategy
+#Model Evaluation Strategy
 
 The following metrics were used due to class imbalance:
 
@@ -127,7 +126,7 @@ Special attention was given to Recall and ROC-AUC since identifying high-risk pa
 
 
 
-📉 Visualizations & Reporting
+Visualizations & Reporting
 
 The project contains:
 
@@ -140,7 +139,7 @@ The project contains:
 * Executive dashboard
 
 
-🔍 Key Findings
+Key Findings
 
 # Patient Readmission Insights
 
@@ -154,7 +153,7 @@ The project contains:
 * Feature importance analysis provided actionable clinical insights.
 
 
-# 💼 Business Value
+#Business Value
 
 The predictive system can help healthcare organizations:
 
@@ -172,7 +171,7 @@ Reduce avoidable readmissions and associated healthcare expenses.
 
 
 
-📦 Project Deliverables
+#Project Deliverables
 
 
 # Analytical Deliverables
@@ -190,7 +189,7 @@ Reduce avoidable readmissions and associated healthcare expenses.
 * Stakeholder-focused reporting
 
 
-⚙️ Technologies Used
+Technologies Used
 
 # Programming
 * Python
